@@ -17,19 +17,21 @@ Here are some ideas to get you started:
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SonSeongmin&fontSize=90" />
+</div>
 
-  ## Languages
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
-	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
+## 😀Introduce😀
 
-  ## Project
-  
+### 🎇Language🎇
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
+
+### 🛠Project🛠
+
 <a href="https://store.steampowered.com/app/2317390/ToyLand/" target="_blank"><img src="https://img.shields.io/badge/Steam_ToyLand-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 <a href="https://store.steampowered.com/app/2317390/ToyLand/" target="_blank"><img src="https://img.shields.io/badge/Steam_ToyLand-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 
 
-  ## introduce
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSonSeongmin&show_icons=true&theme=radical)
 
 
@@ -37,4 +39,3 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rjeotjdals)](https://solved.ac/rjeotjdals)
-</div>
