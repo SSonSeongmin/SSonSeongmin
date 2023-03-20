@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=SonSeongmin&fontSize=70" />
 </div>
 
-## 😀Introduce
-
-<br>
-
 ### 🎇Language
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
 
