@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSonSeongmin&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rjeotjdals)](https://solved.ac/rjeotjdals)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSonSeongmin&layout=compact&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSonSeongmin&show_icons=true&theme=radical)
 
 
 <a href="https://store.steampowered.com/app/2317390/ToyLand/" target="_blank"><img src="https://img.shields.io/badge/Steam_ToyLand-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
