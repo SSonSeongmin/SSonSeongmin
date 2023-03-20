@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=SonSeongmin&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&fontSize=70" />
 </div>
 
 ### 🎇Language
