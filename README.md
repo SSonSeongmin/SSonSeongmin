@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac
-SSonSeongmin](http://mazassumnida.wtf/api/v2/generate_badge?boj={rjeotjdals})](https://solved.ac/{rjeotjdals})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rjeotjdals)](https://solved.ac/rjeotjdals)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSonSeongmin&show_icons=true&theme=radical)
 
