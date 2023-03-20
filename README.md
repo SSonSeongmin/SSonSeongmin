@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SonSeongmin&fontSize=90" />
 </div>
 
-## 😀Introduce😀
+## 😀Introduce
 
-### 🎇Language🎇
+### 🎇Language
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
 
-### 🛠Project🛠
+### 🛠Project
 
 <a href="https://store.steampowered.com/app/2317390/ToyLand/" target="_blank"><img src="https://img.shields.io/badge/Steam_ToyLand-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 <a href="https://store.steampowered.com/app/2317390/ToyLand/" target="_blank"><img src="https://img.shields.io/badge/Steam_ToyLand-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
