@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=100&section=header"/>
-</div>
+
 
 ### 🎇Language
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" />
@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rjeotjdals)](https://solved.ac/rjeotjdals)
+</div>
