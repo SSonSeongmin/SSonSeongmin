@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSonSeongmin&show_icons=true&theme=radical)
 
 
-<a href="https://store.steampowered.com/app/2317390/ToyLand/" target="_blank"><img src="https://img.shields.io/badge/#000000-000000?style=for-the-badge&logo=appveyor&logoColor=000000"/></a>
+<a href="https://store.steampowered.com/app/2317390/ToyLand/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
